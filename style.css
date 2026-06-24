@@ -1,0 +1,42 @@
+header {
+   
+    font-family:cursive;
+}
+h1 {
+    font-size: 50px;
+     text-align: center;
+}
+ p  {
+    font-size: 24px;
+    font-family:cursive;
+}
+ol {
+    font-size: 24px;
+    font-family:cursive;
+}
+.img1 {
+    float: right;
+}
+.sub {
+    text-align: right;
+}
+.img2 {
+    float: left;
+    margin: 10px;
+}
+.imgyowaimo {
+    float:right;
+    margin: 5px;
+}
+a { 
+    text-decoration:none;
+    font-family: sans-serif;
+    color: blueviolet;
+    border-radius: 10px;
+    border: 3px solid black;
+    padding: 5px;
+    background-color: rgb(219, 232, 244);
+}
+footer {
+    margin-top: 500px;
+}
